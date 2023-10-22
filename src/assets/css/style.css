@@ -1,0 +1,9 @@
+h1{
+    color: crimson;
+    text-transform: uppercase;
+}
+div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
